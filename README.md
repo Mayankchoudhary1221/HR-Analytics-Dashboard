@@ -85,7 +85,7 @@ The dataset includes HR-related information such as:
 [![Overview Dashboard](images/overview-dashboard.png)](https://github.com/Mayankchoudhary1221/HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20Overview.png)
 
 ### Attrition Analysis
-![Attrition Dashboard](images/attrition-dashboard.png)
+[![Attrition Dashboard](images/attrition-dashboard.png)](https://github.com/Mayankchoudhary1221/HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20Attrition.png)
 
 ---
 
